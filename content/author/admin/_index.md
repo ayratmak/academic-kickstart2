@@ -25,9 +25,9 @@ email = ""
 interests = [
   "Artificial Intelligence",
   "Computational Linguistics",
-  "Information Retrieval"
-  "Data Visualisation"
-  "Machine Learning"
+  "Information Retrieval",
+  "Data Visualisation",
+  "Machine Learning",
   "Game Theory"
 ]
 
