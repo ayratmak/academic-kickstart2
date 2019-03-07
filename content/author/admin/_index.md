@@ -44,6 +44,11 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "BSc in Economics"
   institution = "London School of Economics"
+  year = 2015
+ 
+[[education.courses]]
+  course = "International Baccalaureate Programme"
+  institution = "International School of Prague"
   year = 2012
 
 # Social/Academic Networking
