@@ -26,7 +26,7 @@ disqusShortname = ""
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "academic"
+theme = "default"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -64,4 +64,4 @@ preserveTaxonomyNames = true
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
-  author = "admin"
+  author = "authors"
