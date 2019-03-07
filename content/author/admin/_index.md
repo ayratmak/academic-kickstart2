@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Ayrat"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -13,7 +13,7 @@ role = "Strategy Consultant"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "London School of Economics", url = "" } ]
+organisations = [ { name = "London School of Economics", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Expert for commercial applications of game theory, industrial economics, mechanism & market design."
