@@ -29,7 +29,7 @@ date_format = "January 2006"
   Responsibilities include:
   
   * Structuring bilateral negotiations
-  * Applying auction theory to business problems
+  * Applying game theory to business problems
   * Designing auctions for large-scale procurement projects
   """
 
